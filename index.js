@@ -29,7 +29,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PUT STATUS 1","PUT STATUS 2","PUT STATUS 3"];
+const statusMessages = [".gg/louvaesuai"];
 
 
 let currentIndex = 0;
@@ -59,7 +59,7 @@ function updateStatusAndSendMessages() {
 
   client.user.setPresence({
     activities: [{ name: currentStatus, type: ActivityType.Custom}],
-    status: 'dnd',
+    status: 'twitch stream',
   });
 
   
