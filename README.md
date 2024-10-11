@@ -1,3 +1,3 @@
-# README.md
-for personal use only
-.gg/louvaesuai
+# custom bot status
+for personal use only, NOT FOR SELL !
+.gg/cizuri
