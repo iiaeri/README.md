@@ -1,8 +1,7 @@
 /**
-  GIT : https://github.com/colystutorial/clybgrmvr
-  DISCORD SERVER : https://discord.gg/myxlrie
+  DISCORD SERVER : https://discord.gg/d9ZpAh3UwN
  * **********************************************
- *   Code by COLYFLOUR
+ *   Code by yzichi
  * **********************************************
  */
 
@@ -24,12 +23,12 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to COLY: http://localhost:${port}`);
-  console.log(`🔗 Powered By COLY`);
+  console.log(`🔗 Listening to ceia: http://localhost:${port}`);
+  console.log(`🔗 Powered By ceia`);
 });
 
 
-const statusMessages = [".gg/louvaesuai"];
+const statusMessages = ["status 1" "status 2"];
 
 
 let currentIndex = 0;
@@ -46,10 +45,9 @@ async function login() {
 }
 
 /**
-  GIT : https://github.com/colystutorial/clybgrmvr
-  DISCORD SERVER : https://discord.gg/myxlrie
+  DISCORD SERVER : https://discord.gg/d9ZpAh3UwN
  * **********************************************
- *   Code by COLYFLOUR
+ *   Code by yzichi
  * **********************************************
  */
 
@@ -89,9 +87,8 @@ client.once('ready', () => {
 login();
 
 /**
-  GIT : https://github.com/colystutorial/clybgrmvr
-  DISCORD SERVER : https://discord.gg/myxlrie
+  DISCORD SERVER : https://discord.gg/d9ZpAh3UwN
  * **********************************************
- *   Code by COLYFLOUR
+ *   Code by yzichi
  * **********************************************
  */
