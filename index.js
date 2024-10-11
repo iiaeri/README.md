@@ -28,7 +28,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["status 1" "status 2"];
+const statusMessages = [".gg/yuwinaira" "ping @snooze to inquire"];
 
 
 let currentIndex = 0;
